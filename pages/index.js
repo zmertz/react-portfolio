@@ -39,7 +39,7 @@ export default function Home() {
               onClick={() => setDarkMode(!darkMode)} 
               className='cursor-pointer text-xl'/></li>
               <li><a className='bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8' href='/ResumePage'>
-                Resume
+                Resumé
               </a></li>
             </ul>
           </nav>
@@ -48,7 +48,7 @@ export default function Home() {
             <h2 className='text-5xl py-2 text-teal-600 font-medium'>Zack Mertz</h2>
             <h3 className='text-2xl py-2'>Software Developer</h3>
             <p className='text-md py-3 leading-8 text-gray-800'>
-              Recently graduated college student of computer science.
+              I'm a recently graduated college student of computer science.
               Get to know me and see some of my work down below!
             </p>
           </div>

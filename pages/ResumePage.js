@@ -25,13 +25,13 @@ function ResumePage() {
               <li><BsFillMoonStarsFill 
               className='cursor-pointer text-xl'/></li>
               <li><a className='bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8' href='/ResumePage'>
-                Resume
+                Resumé
               </a></li>
             </ul>
           </nav>
 
           <div className='text-center p-5'>
-            <h2 className='text-5xl py-2 text-teal-600 font-medium'>Resume</h2>
+            <h2 className='text-5xl py-2 text-teal-600 font-medium'>Resumé</h2>
             <p className='text-teal-500 underline'>
               <a href="/resume.pdf" download>(download)</a>
             </p>
