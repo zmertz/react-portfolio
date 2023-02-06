@@ -81,7 +81,7 @@ export default function Home() {
               <p className="py-2">
                 Creating designs following core design theory.
               </p>
-              <h4 className="py-4 text-teal-600">Tools I Use</h4>
+              <h4 className="py-4 bold">Tools I Use:</h4>
               <p className="text-gray-800 py-1">HTML, CSS, JavaScript</p>
               <p className="text-gray-800 py-1">React</p>
               <p className="text-gray-800 py-1">Typescript</p>
@@ -96,7 +96,7 @@ export default function Home() {
               <p className="py-2">
                 Performing quality work with tried and true tech.
               </p>
-              <h4 className="py-4 text-teal-600">Languages I Use</h4>
+              <h4 className="py-4 bold">Languages I Use:</h4>
               <p className="text-gray-800 py-1">Java</p>
               <p className="text-gray-800 py-1">Python</p>
               <p className="text-gray-800 py-1">C/C++</p>
@@ -109,7 +109,7 @@ export default function Home() {
               <p className="py-2">
                 I have picked up a myriad of other skills in the tech world.
               </p>
-              <h4 className="py-4 text-teal-600">Other proficient areas</h4>
+              <h4 className="py-4 bold">Other Proficient Areas:</h4>
               <p className="text-gray-800 py-1">UI/UX Design</p>
               <p className="text-gray-800 py-1">Data Science</p>
               <p className="text-gray-800 py-1">Figma</p>
