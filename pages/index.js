@@ -48,7 +48,7 @@ export default function Home() {
             <h2 className='text-5xl py-2 text-teal-600 font-medium'>Zack Mertz</h2>
             <h3 className='text-2xl py-2'>Software Developer</h3>
             <p className='text-md py-3 leading-8 text-gray-800'>
-              I'm a recently graduated college student of computer science.
+              I'm an early career software developer with a passion for coding and problem solving.
               Get to know me and see some of my work down below!
             </p>
           </div>
@@ -67,7 +67,7 @@ export default function Home() {
           <div>
             <h3 className='text-3xl py-1'>Specialized Skills</h3>
             <p className='text-md py-2 leading-8 text-gray-80'>
-              During my coursework in college, I worked on many different projects
+              During my coursework in college and time as a developer, I worked on many different projects
               that helped me get to where I am now in my career.
             </p>
           </div>
